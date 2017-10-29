@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<h2> Exercise 1 </h2>
+
+<head/>
+
+<body>
+<p4> This is the exercise for my HTML </p4>
+<br>
+<a href="https://www.youtube.com"> This is a Youtube </a>
+</body>
+</html>

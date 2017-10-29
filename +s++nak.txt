@@ -1,0 +1,11 @@
+﻿<!DOCTYPE html>
+<html> 
+<body>
+
+<h1> NO body else no me</h1>
+
+<p> HAha this type <p> 
+<p1> All Webs are safe <p1>
+
+</body>
+</html>
